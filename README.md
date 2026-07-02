@@ -4,7 +4,7 @@
 
 基于 [Innei/Shiro](https://github.com/Innei/Shiro) 提取整理的 UI 设计规范系统，源自全球 4.2k Star 极简博客框架。供 AI 辅助开发时作为 UI 参考。
 
-[完整设计规范](./shiro-core-design-spec.md) | [HTML 展示页](./shiro-core-demo.html) | **用浏览器直接打开 `shiro-core-demo.html` 即可预览**
+[完整设计规范](./shiro-core-design-spec.md) | [HTML 展示页](./shiro-core-demo.html) | [在线 Demo](https://shiro-core.xp6.top/)
 
 ## 核心特性
 
@@ -32,7 +32,7 @@
 请使用以下 UI 设计规范来构建界面：
 
 设计规范文档：https://github.com/ZXEB/shiro-core/blob/master/shiro-core-design-spec.md
-HTML 展示页面：https://github.com/ZXEB/shiro-core/blob/master/shiro-core-demo.html
+HTML 展示页面：https://shiro-core.xp6.top/
 
 要求：必须实现暗黑模式，默认跟随系统自动切换。
 ```
