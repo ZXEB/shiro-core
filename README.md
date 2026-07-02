@@ -4,7 +4,7 @@
 
 基于 [Innei/Shiro](https://github.com/Innei/Shiro) 提取整理的 UI 设计规范系统，源自全球 4.2k Star 极简博客框架。供 AI 辅助开发时作为 UI 参考。
 
-[完整设计规范](./shiro-core-design-spec.md) | [HTML 展示页](./shiro-core-demo.html) | [在线 Demo](https://zxeb.github.io/shiro-core/shiro-core-demo.html)
+[完整设计规范](./shiro-core-design-spec.md) | [HTML 展示页](./shiro-core-demo.html) | **用浏览器直接打开 `shiro-core-demo.html` 即可预览**
 
 ## 核心特性
 
