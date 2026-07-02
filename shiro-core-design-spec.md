@@ -693,7 +693,7 @@ animation: timeline-reveal 3s ease-in-out forwards
 请使用以下 UI 设计规范来构建界面：
 
 设计规范文档：https://github.com/ZXEB/shiro-core/blob/master/shiro-core-design-spec.md
-HTML 展示页面：https://github.com/ZXEB/shiro-core/blob/master/shiro-core-demo.html
+HTML 展示页面：https://zxeb.github.io/shiro-core/shiro-core-demo.html
 
 要求：必须实现暗黑模式，默认跟随系统自动切换。
 ```
