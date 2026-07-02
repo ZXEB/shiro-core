@@ -682,3 +682,19 @@ animation: timeline-reveal 3s ease-in-out forwards
 ---
 
 > 本文档基于 [Innei/Shiro](https://github.com/Innei/Shiro) 项目提取整理，供 AI 辅助开发时作为 UI 参考规范使用。
+
+---
+
+## 📋 AI 使用指南
+
+让 AI 写软件时，直接复制以下内容发给 AI：
+
+```
+请使用以下 UI 设计规范来构建界面：
+
+设计规范文档：https://github.com/ZXEB/shiro-core/blob/master/shiro-core-design-spec.md
+HTML 展示页面：https://github.com/ZXEB/shiro-core/blob/master/shiro-core-demo.html
+
+要求：必须实现暗黑模式，默认跟随系统自动切换。
+```
+
